@@ -4,6 +4,10 @@ The **Anti-Cyberbullying Student Network** is a secure, privacy-focused full-sta
 
 This platform aims to lower the barrier for victims and witnesses of online harassment by offering robust anonymity toggles, JWT-secured accounts, and an immersive, responsive dark-themed user interface.
 
+## 🚀 Live Demo
+* **Frontend App**: [https://anti-cyberbullying-mern.vercel.app/](https://anti-cyberbullying-mern.vercel.app/)
+* **Backend API**: [https://anti-cyberbullying-mern.onrender.com/](https://anti-cyberbullying-mern.onrender.com/)
+
 ---
 
 ## 🌟 Key Features
